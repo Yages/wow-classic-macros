@@ -1,0 +1,3 @@
+#showtooltip
+/cast shoot
+/dance
