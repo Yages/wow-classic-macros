@@ -1,3 +1,3 @@
 #showtooltip
-/cast shoot
+/cast !shoot
 /dance
