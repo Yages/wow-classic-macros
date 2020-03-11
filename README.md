@@ -1,2 +1,5 @@
-# wow-classic-macros
-Macros I use for wow classic.
+# Wow Classic Macros
+
+Macros I use for World of Warcraft classic.
+
+Use em at your own peril.
