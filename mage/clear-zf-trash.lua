@@ -1,0 +1,1 @@
+/run local items=({1520]=true,[9335]=true,[9333]=true,[9332]=true,[1645]=true,[4599]=true} for b=0,4,1 do for s=1,32,1 do local id=select(10,GetContainerItemInfo(b,s)) if items[id] then PickupContainerItem(b,s) DeleteCursorItem() end end end
