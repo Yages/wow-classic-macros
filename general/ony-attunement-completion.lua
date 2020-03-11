@@ -1,0 +1,1 @@
+/run local a,b={4903,4941,4974,6566,6567,6568,6569,6570,6584,6582,6583,6585,6601,6602}for i=1,#a do b=IsQuestFlaggedCompleted(a[i]) print(i.." ("..a[i].."):",b and "\124cFF00FF00" or "\124cFFFF0000Not","Done")end
